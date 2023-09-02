@@ -31,18 +31,3 @@
 >* The file system catalog
 >* General information about the file system such as: number of Inodes, number of blocks, number of used and free Inodes and blocks.
 
-## Running Programm:
-```bash
-# Clone the repository
-$ git clone https://github.com/MightyArty/Unix-File-System.git
-# Go into the repository
-$ cd Unix-File-System
-# Open terminal on Linux
-$ Run "make all"
-# After running, mylibc_test and ufs_test will run.
-```
-
-## Cleaning files:
-```bash
-# In the repository
-$ Run "make clean"
